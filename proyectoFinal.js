@@ -2,7 +2,7 @@
  * @challenge: Simulador interactivo
  * Calcular pagos en cuotas sobre un monto determinado.
  * 
- * @version: v1.1.1
+ * @version: v1.1.2
  * @author: Iván Oishi
  * @fecha: 26/12/2021
  *
@@ -11,7 +11,7 @@
  *  - v1.0.1 - Modificacion para saber en cuantas cuotas tiene que pagar
  *  - v1.1.0 - Agregando Objetos
  *  - v1.1.1 - Mejore el displayPhone y la salidad de "mostrar"
- *  - v1.1.2 - Ahora el usuario puede saber en cuantas cuotas tiene que pagar por mes
+ *  - v1.1.2 - Ahora el usuario puede saber en cuantas cuotas tiene que pagar por mes y se agrega un descuento
  */
 
 // Código
